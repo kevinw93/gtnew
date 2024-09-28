@@ -11,7 +11,7 @@ export default function CustomersPage() {
     <Card>
       <CardHeader>
         <CardTitle>Customers</CardTitle>
-        <CardDescription>View all customers and their orders.</CardDescription>
+        <CardDescription>View all pls work and their orders.</CardDescription>
       </CardHeader>
       <CardContent></CardContent>
     </Card>
